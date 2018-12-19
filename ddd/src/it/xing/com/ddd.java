@@ -1,5 +1,8 @@
 package it.xing.com;
 
 public class ddd {
+	public static void main(String[] args) {
+		System.out.println("woshishihishihs");
+	}
 
 }
